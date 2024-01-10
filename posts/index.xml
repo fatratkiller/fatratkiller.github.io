@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Fatratkiller Blog</title>
+    <link>https://fatratkiller.github.io/posts/</link>
+    <description>Recent content in Posts on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jan 2024 14:19:34 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fatratkiller.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why does the L1&amp;L2 hybrid modular public chain go further?</title>
-      <link>https://example.org/posts/20240110/</link>
+      <link>https://fatratkiller.github.io/posts/20240110/</link>
       <pubDate>Wed, 10 Jan 2024 14:19:34 +0800</pubDate>
-      <guid>https://example.org/posts/20240110/</guid>
+      <guid>https://fatratkiller.github.io/posts/20240110/</guid>
       <description>How SKALE works&#xA;There is still no perfect blockchain to this day, and neither is Ethereum. This is mainly due to the so-called &amp;ldquo;blockchain triangle dilemma&amp;rdquo; - the inability to achieve a harmonious balance between scalability, decentralization and security. Yet, there is no denying that Ethereum currently has the strongest and most active ecosystem and also the highest adoption rate to date. SKALE is built on top of Ethereum, but it is much more than that.</description>
     </item>
     <item>
       <title>A Perspective on Synthetix and Mirror: An Exploration of DeFi Synthetic AssetClass Project Governance Mechanisms</title>
-      <link>https://example.org/posts/20240109/</link>
+      <link>https://fatratkiller.github.io/posts/20240109/</link>
       <pubDate>Tue, 09 Jan 2024 14:48:51 +0800</pubDate>
-      <guid>https://example.org/posts/20240109/</guid>
+      <guid>https://fatratkiller.github.io/posts/20240109/</guid>
       <description>Synthetix (SNX): In 2022, Synthetix was considered a leader in the decentralized finance (DeFi) space, with a strong focus on governance and decentralization. The project had plans to transition to a DAO structure and address inefficiencies within its governance system. The goal was to empower the community and ensure a smoother transition to full decentralization.&#xA;Current Status (January 2024): Synthetix has indeed made progress in its journey towards decentralization. The creation of multiple DAOs was an attempt to distribute power more evenly among the community members.</description>
     </item>
   </channel>
