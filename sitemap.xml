@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2024-01-10T14:19:34+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2024-01-10T14:19:34+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/20240110/</loc>
+    <lastmod>2024-01-10T14:19:34+08:00</lastmod>
+  </url><url>
     <loc>https://example.org/defi-synthetic-assetclass-project-governance-mechanisms/20240109/</loc>
     <lastmod>2024-01-09T14:48:51+08:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2024-01-09T14:48:51+08:00</lastmod>
   </url><url>
     <loc>https://example.org/defi-synthetic-assetclass-project-governance-mechanisms/</loc>
-    <lastmod>2024-01-09T14:48:51+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-01-09T14:48:51+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
     <lastmod>2024-01-09T14:48:51+08:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
@@ -29,7 +32,7 @@
     <loc>https://example.org/tags/markdown/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/markdown-syntax/</loc>
+    <loc>https://example.org/markdown-syntax/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/syntax/</loc>
@@ -41,7 +44,7 @@
     <loc>https://example.org/tags/privacy/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/rich-content/</loc>
+    <loc>https://example.org/rich-content/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/shortcodes/</loc>
@@ -50,13 +53,13 @@
     <loc>https://example.org/tags/emoji/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/emoji-support/</loc>
+    <loc>https://example.org/emoji-support/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/math-typesetting/</loc>
+    <loc>https://example.org/math-typesetting/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/placeholder-text/</loc>
+    <loc>https://example.org/placeholder-text/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/text/</loc>
