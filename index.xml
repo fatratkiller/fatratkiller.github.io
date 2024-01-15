@@ -6,8 +6,15 @@
     <description>Recent content on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jan 2024 09:25:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 09:52:41 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Implications of Terra’s Failure for Public Chain Projects</title>
+      <link>https://fatratkiller.github.io/posts/the-implications-of-terras-failure-for-public-chain-projects/</link>
+      <pubDate>Mon, 15 Jan 2024 09:52:41 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/the-implications-of-terras-failure-for-public-chain-projects/</guid>
+      <description>Abstract: The flexible redemption mechanism and interest rate design of algorithmic stablecoin should come first. Similarly, the algorithm should be kept in a box and not reduced to a growth gimmick for network effects.&#xA;Algorithmic stablecoins are stablecoins that rely entirely on algorithms to regulate supply and demand to create and maintain currency values. Does the collapse of Terra/UST, the largest and most mainstream algorithmic stablecoin system on the market, mean that algorithmic stablecoin is a false proposition?</description>
+    </item>
     <item>
       <title>The Future of Actively Managed on Chain Asset Protocols</title>
       <link>https://fatratkiller.github.io/posts/the-future-of-actively-managed-on-chain-asset-protocols/</link>
