@@ -6,8 +6,15 @@
     <description>Recent content on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 09:52:41 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 09:11:52 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metis Adds Variables to Layer 2</title>
+      <link>https://fatratkiller.github.io/posts/metis-adds-variables-to-layer-2/</link>
+      <pubDate>Tue, 16 Jan 2024 09:11:52 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/metis-adds-variables-to-layer-2/</guid>
+      <description>With the rapid growth of Ethereum, the proliferation of on-chain businesses has also caused the blockchain network to be overloaded, and on-chain transactions to become slow and expensive. The Defi midsummer in 2020 and the NFT frenzy last year further exacerbated the congestion level of the Ethereum network and severely limited the large-scale development of the ecosystem on the Ethereum chain. Based on this, the expansion of Ethereum has always been concerned by the market, and Rollup expansion technology is the most popular two-layer expansion scheme in the market.</description>
+    </item>
     <item>
       <title>The Implications of Terra’s Failure for Public Chain Projects</title>
       <link>https://fatratkiller.github.io/posts/the-implications-of-terras-failure-for-public-chain-projects/</link>
