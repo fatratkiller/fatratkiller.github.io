@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fatratkiller.github.io/</loc>
-    <lastmod>2024-01-16T09:11:52+08:00</lastmod>
+    <loc>https://fatratkiller.github.io/posts/a-consensus-engine-that-fuses-the-cosmos-and-ethereum/</loc>
+    <lastmod>2024-01-23T12:29:02+08:00</lastmod>
   </url><url>
-    <loc>https://fatratkiller.github.io/posts/metis-adds-variables-to-layer-2/</loc>
-    <lastmod>2024-01-16T09:11:52+08:00</lastmod>
+    <loc>https://fatratkiller.github.io/</loc>
+    <lastmod>2024-01-23T12:29:02+08:00</lastmod>
   </url><url>
     <loc>https://fatratkiller.github.io/posts/</loc>
+    <lastmod>2024-01-23T12:29:02+08:00</lastmod>
+  </url><url>
+    <loc>https://fatratkiller.github.io/posts/metis-adds-variables-to-layer-2/</loc>
     <lastmod>2024-01-16T09:11:52+08:00</lastmod>
   </url><url>
     <loc>https://fatratkiller.github.io/posts/the-implications-of-terras-failure-for-public-chain-projects/</loc>

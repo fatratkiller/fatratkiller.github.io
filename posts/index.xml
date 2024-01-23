@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jan 2024 09:11:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 12:29:02 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Consensus Engine That Fuses the Cosmos and Ethereum</title>
+      <link>https://fatratkiller.github.io/posts/a-consensus-engine-that-fuses-the-cosmos-and-ethereum/</link>
+      <pubDate>Tue, 23 Jan 2024 12:29:02 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/a-consensus-engine-that-fuses-the-cosmos-and-ethereum/</guid>
+      <description>Ethereum and Cosmos have always had a huge number of developers and users, but there has been a lack of a project that really brings the two together. Kava, a highly secure, lightening fast Layer 1 blockchain, combines the two most commonly used permissionless execution environments into a single, scalable, developer-optimized network. It has successfully built a bridge between Ethereum and Cosmos, the world&amp;rsquo;s two largest blockchain developer communities. It will also open up endless possibilities for Ethereum and Cosmos.</description>
+    </item>
     <item>
       <title>Metis Adds Variables to Layer 2</title>
       <link>https://fatratkiller.github.io/posts/metis-adds-variables-to-layer-2/</link>
