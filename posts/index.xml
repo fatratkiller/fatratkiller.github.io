@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 16:04:22 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 09:25:17 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Will Social Protocols Come of Age?</title>
+      <link>https://fatratkiller.github.io/posts/when-will-social-protocols-come-of-age/</link>
+      <pubDate>Wed, 31 Jan 2024 09:25:17 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/when-will-social-protocols-come-of-age/</guid>
+      <description>https://medium.com/@BingVentures/when-will-social-protocols-come-of-age-f47049d947c9&#xA;A sufficiently decentralized network must be one where users can communicate with each other anytime, anywhere, in real time, which means that censorship resistance and security are at the core of the network. At the same time, users must have complete control over their identity (username), data (messages) and social graph (relationships with others). If a third party controls either, they can prevent the two users from communicating. Developers must also be free to build applications with unrestricted access to the network.</description>
+    </item>
     <item>
       <title>Social Ideas for Web3 Wallets</title>
       <link>https://fatratkiller.github.io/posts/social-ideas-for-web3-wallets/</link>
