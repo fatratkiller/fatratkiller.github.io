@@ -1,4 +1,13 @@
-# fatratkiller.github.io
+# Building a Personal Blog with Hugo and GitHub Pages
+
+## Setting Up a Blog with Hugo
+Hugo is a blog framework written in Go, using Markdown for writing posts and automatically generating static site files. It supports a wide range of theme configurations and allows for high customization with embedded JavaScript plugins like comment systems. Other similar frameworks include Gatsby, Jekyll, Hexo, and Ghost, which offer comparable features and usability, allowing for personal preference in choice.
+
+## Installing Hugo
+On macOS, I followed the official recommendation and installed Hugo via Homebrew, though the process is similar on other operating systems.
+·brew install hugo·
+
+
 
 https://jianzhnie.github.io/post/hugo_site/
 
