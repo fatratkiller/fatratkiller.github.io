@@ -5,7 +5,7 @@ Hugo is a blog framework written in Go, using Markdown for writing posts and aut
 
 ## Installing Hugo
 On macOS, I followed the official recommendation and installed Hugo via Homebrew, though the process is similar on other operating systems.
-·brew install hugo·
+``brew install hugo``
 
 
 
