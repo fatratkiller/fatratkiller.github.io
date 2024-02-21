@@ -50,7 +50,7 @@ You can directly clone a theme repository into your project. For example, to use
 ``git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure``
 This method might lead to conflicts if you modify the theme later. A more recommended approach is to fork the original theme repository to your account and link it using git submodule, allowing for easier maintenance and updates.
 ```
-cd robin-site/
+cd fatratkiller-site/
 git init
 git submodule add https://github.com/pseudoyu/pure themes/pure
 ```
