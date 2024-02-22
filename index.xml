@@ -6,8 +6,15 @@
     <description>Recent content on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 08:51:11 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 16:42:36 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Subscribe to My Web3 Airdrop Calendar</title>
+      <link>https://fatratkiller.github.io/posts/how-to-subscribe-to-my-web3-airdrop-calendar/</link>
+      <pubDate>Thu, 22 Feb 2024 16:42:36 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/how-to-subscribe-to-my-web3-airdrop-calendar/</guid>
+      <description>Staying updated with the latest airdrop events is crucial for every crypto enthusiast. Our Airdrop Calendar is designed to help you keep track of these events seamlessly. Please star this repository to get more guidlines on how to get this airdrops: https://github.com/fatratkiller/web3-airdrop-calendar-generator&#xA;Here&amp;rsquo;s how you can generate the ICS file for the calendar, use it with Google Calendar(or other Calendar), and subscribe to it on your Apple device.&#xA;Generating the ICS File</description>
+    </item>
     <item>
       <title>Using Ockham’s Razor to Discover DeFi2.0 Metagovernance Value</title>
       <link>https://fatratkiller.github.io/posts/using-ockhams-razor-to-discover-defi2.0-metagovernance-value/</link>
