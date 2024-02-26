@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2024 08:53:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 11:01:55 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investment Opportunities in the Modular Public Chain Track</title>
+      <link>https://fatratkiller.github.io/posts/investment-opportunities-in-the-modular-public-chain-track/</link>
+      <pubDate>Mon, 26 Feb 2024 11:01:55 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/investment-opportunities-in-the-modular-public-chain-track/</guid>
+      <description>Modular public chain is gradually becoming the most discussed topic, and the so-called modularity is to divide the consensus layer, data availability layer (DA), settlement layer, transaction execution layer, etc. into different chains, rather than one chain to handle all modules. Let&amp;rsquo;s take a look at the fastest modular implementation layer, Fuel. The modular public chain is designed to divide the system into multiple module components, so that it has the characteristics of blockchain, and can even have sub-functions such as DEX application chain, stablecoin application chain, NFT application chain and derivative application chain.</description>
+    </item>
     <item>
       <title>A Theory of New National Development Based on DAO</title>
       <link>https://fatratkiller.github.io/posts/a-theory-of-new-national-development-based-on-dao/</link>
