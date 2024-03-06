@@ -6,8 +6,15 @@
     <description>Recent content on Fatratkiller Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 10:55:42 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 09:54:58 +0800</lastBuildDate>
     <atom:link href="https://fatratkiller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daos Programmable Governance</title>
+      <link>https://fatratkiller.github.io/posts/daos-programmable-governance/</link>
+      <pubDate>Wed, 06 Mar 2024 09:54:58 +0800</pubDate>
+      <guid>https://fatratkiller.github.io/posts/daos-programmable-governance/</guid>
+      <description>As early as 2016, the first decentralized governance scheme called &amp;ldquo;TheDAO&amp;rdquo; appeared on Ethereum to coordinate investment and governance in theDAO treasury. The history of DAO is also officially opened at this moment. Of course, the development of the first DAO is not smooth. The DAO’s treasury was hacked and lost funds, which later even led to the hard fork of Ethereum. However, the development of DAO has entered a new development since then.</description>
+    </item>
     <item>
       <title>The Trusted Future of Privacy Computing Public Chains</title>
       <link>https://fatratkiller.github.io/posts/the-trusted-future-of-privacy-computing-public-chains/</link>
